@@ -13,5 +13,7 @@ Links to useful articles, blogs and code are organised here.
 
 ## Papers :scroll: :bookmark_tabs:
 
+## Models
+* [coral.ai](https://coral.ai/models/) | Image Classification, Object detection, Segmentation, Pose estimation, Speech recognition.
 
 ## Random :registered:
