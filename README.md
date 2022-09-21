@@ -18,3 +18,4 @@ Links to useful articles, blogs and code are organised here.
 * [coral.ai](https://coral.ai/models/) | Image Classification, Object detection, Segmentation, Pose estimation, Speech recognition.
 
 ## Random :registered:
+* [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms.
