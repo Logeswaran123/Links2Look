@@ -12,6 +12,7 @@ Links to useful articles, blogs and code are organised here.
 
 
 ## Papers :scroll: :bookmark_tabs:
+* [NeuralMarker: A Framework for Learning General Marker Correspondence](https://drinkingcoder.github.io/publication/neuralmarker/) | Image warping | Image mapping
 
 ## Models
 * [Tensorflow Hub](https://tfhub.dev/)
