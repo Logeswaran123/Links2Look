@@ -7,7 +7,7 @@ Links to useful articles, blogs and code are organised here.
 * [YouTube: The Resume That Got Me Into Google](https://www.youtube.com/watch?v=5uhmS8nzxM4&ab_channel=PowerCouple)
 
 ## AI :robot: :brain:
-
+* [DEEP LEARNING Course](https://atcold.github.io/pytorch-Deep-Learning/) | DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE | Yann LeCun & Alfredo Canziani
 
 ## Computer Vision :desktop_computer: :eyes:
 
