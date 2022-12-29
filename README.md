@@ -20,3 +20,6 @@ Links to useful articles, blogs and code are organised here.
 
 ## Random :registered:
 * [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms.
+
+## Cheet Sheet
+* [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html)
