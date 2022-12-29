@@ -9,11 +9,12 @@ Links to useful articles, blogs and code are organised here.
 
 ## AI/ML/DL/CV :robot: :brain:
 * [DEEP LEARNING Course](https://atcold.github.io/pytorch-Deep-Learning/) | DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE | Yann LeCun & Alfredo Canziani
+* Artificial Intelligence Deep Learning Machine Learning Tutorials | [Repository](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
 * The Most Comprehensive List of Kaggle Solutions and Ideas | [Website](https://farid.one/kaggle-solutions/) | [Repository](https://github.com/faridrashidi/kaggle-solutions#Guideline)
 * MIT | [Intro to Deeplearning](http://introtodeeplearning.com/)
 * [AS-One](https://github.com/augmentedstartups/AS-One) : A Modular Libary for YOLO Object Detection and Object Tracking
 * Fine-Tune a Semantic Segmentation Model with a Custom Dataset | HuggingFace | [Article](https://huggingface.co/blog/fine-tune-segformer)
-* Artificial Intelligence Deep Learning Machine Learning Tutorials | [Repository](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+* C++ Implementations of Various Machine Learning Algorithms using the MNIST Handwriting Data Set | [Repository](https://github.com/gtaylor5/mnist_ml)
 
 ## Papers :scroll: :bookmark_tabs:
 * [NeuralMarker: A Framework for Learning General Marker Correspondence](https://drinkingcoder.github.io/publication/neuralmarker/) | Image warping | Image mapping
