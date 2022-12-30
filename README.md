@@ -10,6 +10,7 @@ Links to useful articles, blogs and code are organised here.
 ## AI/ML/DL/CV :robot: :brain:
 * [DEEP LEARNING Course](https://atcold.github.io/pytorch-Deep-Learning/) | DS-GA 1008 · SPRING 2020 · NYU CENTER FOR DATA SCIENCE | Yann LeCun & Alfredo Canziani
 * Artificial Intelligence Deep Learning Machine Learning Tutorials | [Repository](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+* Machine Learning Engineering by Andriy Burkov | [Link](http://www.mlebook.com/wiki/doku.php)
 * The Most Comprehensive List of Kaggle Solutions and Ideas | [Website](https://farid.one/kaggle-solutions/) | [Repository](https://github.com/faridrashidi/kaggle-solutions#Guideline)
 * MIT | [Intro to Deeplearning](http://introtodeeplearning.com/)
 * [AS-One](https://github.com/augmentedstartups/AS-One) : A Modular Libary for YOLO Object Detection and Object Tracking
