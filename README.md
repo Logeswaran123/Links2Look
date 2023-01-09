@@ -17,6 +17,7 @@ Links to useful articles, blogs and code are organised here.
 * The Most Comprehensive List of Kaggle Solutions and Ideas | [Website](https://farid.one/kaggle-solutions/) | [Repository](https://github.com/faridrashidi/kaggle-solutions#Guideline)
 * [AS-One](https://github.com/augmentedstartups/AS-One) : A Modular Libary for YOLO Object Detection and Object Tracking
 * Fine-Tune a Semantic Segmentation Model with a Custom Dataset | HuggingFace | [Article](https://huggingface.co/blog/fine-tune-segformer)
+* minGPT | A PyTorch re-implementation of GPT, but small, clean, interpretable. [Repository](https://github.com/karpathy/minGPT)
 
 ## Papers :scroll: :bookmark_tabs:
 * [NeuralMarker: A Framework for Learning General Marker Correspondence](https://drinkingcoder.github.io/publication/neuralmarker/) | Image warping | Image mapping
