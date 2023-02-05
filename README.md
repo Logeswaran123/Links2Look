@@ -5,7 +5,8 @@ Links to useful articles, blogs and code are organised here.
 ### For Students :blue_book: :pencil:
 * [How to write a promising CV](https://yuridevat.hashnode.dev/how-to-write-a-promising-cv)
 * [YouTube: The Resume That Got Me Into Google](https://www.youtube.com/watch?v=5uhmS8nzxM4&ab_channel=PowerCouple)
-* [Tech Interview Handbook] | [Repository](https://github.com/yangshun/tech-interview-handbook) | [Website](https://www.techinterviewhandbook.org/)
+* Tech Interview Handbook | [Repository](https://github.com/yangshun/tech-interview-handbook) | [Website](https://www.techinterviewhandbook.org/)
+* Coding Interview University | [Repository](https://github.com/jwasham/coding-interview-university)
 * Efficient Python for Data Scientists | [Repository](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists)
 
 ## AI/ML/DL/CV :robot: :brain:
