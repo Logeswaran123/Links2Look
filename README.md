@@ -34,6 +34,7 @@ Links to useful articles, blogs and code are organised here.
 ## Random :registered:
 * [Python Robotics](https://github.com/AtsushiSakai/PythonRobotics) | Python code collection of robotics algorithms.
 * [RegexOne](https://regexone.com/) | Learn Regular Expressions with simple, interactive exercises.
+* [Chat PDF](https://www.chatpdf.com/)
 
 ## Cheat Sheet
 * [ML Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html)
