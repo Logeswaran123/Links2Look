@@ -22,6 +22,7 @@ Links to useful articles, blogs and code are organised here.
 * Fine-Tune a Semantic Segmentation Model with a Custom Dataset | HuggingFace | [Article](https://huggingface.co/blog/fine-tune-segformer)
 * minGPT | A PyTorch re-implementation of GPT, but small, clean, interpretable. [Repository](https://github.com/karpathy/minGPT)
 * transformers-stuff | Detailed walk-through of the transformer implemenatation while explaining core concepts along the way | [Repository](https://github.com/januverma/transformers-stuff)
+* Quantization Float32 to UInt8 | [Repository](https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc)
 
 ## Papers :scroll: :bookmark_tabs:
 * [NeuralMarker: A Framework for Learning General Marker Correspondence](https://drinkingcoder.github.io/publication/neuralmarker/) | Image warping | Image mapping
