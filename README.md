@@ -23,7 +23,7 @@ Links to useful articles, blogs and code are organised here.
 * minGPT | A PyTorch re-implementation of GPT, but small, clean, interpretable. [Repository](https://github.com/karpathy/minGPT)
 * transformers-stuff | Detailed walk-through of the transformer implemenatation while explaining core concepts along the way | [Repository](https://github.com/januverma/transformers-stuff)
 * Quantization Float32 to UInt8 | [Repository](https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc)
-* Template matching | [Repository](https://github.com/cvg/LightGlue)
+* Template matching | LightGlue| Local Feature Matching at Light Speed | [Repository](https://github.com/cvg/LightGlue)
 * Tracking keypoints | DeepMind | [Repository](https://github.com/deepmind/tapnet)
 
 ## Papers :scroll: :bookmark_tabs:
